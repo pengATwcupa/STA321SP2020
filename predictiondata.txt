@@ -1,0 +1,17 @@
+age lwt race  smoke ptl ht
+22 129 white     0   0  0  
+25 130 white     0   0  0  
+31 120 white     0   0  0  
+35 170 white     0   1  0  
+19 120 white     1   0  0  
+24 116 white     0   0  0  
+45 123 white     0   0  0  
+28 120 other     1   1  0  
+29 130 white     0   0  0  
+34 187 black     1   0  1  
+25 105 other     0   1  1  
+25  85 other     0   0  0  
+27 150 other     0   0  0  
+23  97 other     0   0  0  
+24 128 black     0   1  0  
+24 132 other     0   0  1  
